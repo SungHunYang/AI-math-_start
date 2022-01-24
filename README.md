@@ -1,1 +1,1 @@
-# AI 기초의 시작으로 수학적인 부분부터 다루고 있습니다.
+# AI_Basic, Forward Propagation
